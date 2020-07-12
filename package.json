@@ -1,0 +1,17 @@
+{
+    "name": "likon-token-sale",
+    "version": "1.0.0",
+    "description": "Likon Token Sale",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "MSA",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+}
